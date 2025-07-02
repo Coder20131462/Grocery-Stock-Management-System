@@ -1,0 +1,16 @@
+# Node
+node_modules/
+
+# Java
+target/
+*.log
+
+# Environment
+.env
+application.properties
+
+# System
+.DS_Store
+*.iml
+.idea/
+.vscode/
